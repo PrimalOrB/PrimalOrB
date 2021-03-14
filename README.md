@@ -26,7 +26,7 @@
  ![Git](https://img.shields.io/badge/-Git-0e3d59?logo=git&style=for-the-badge)&nbsp;&nbsp;
  ![GitHub](https://img.shields.io/badge/-GitHub-0e3d59?logo=github&style=for-the-badge)&nbsp;&nbsp;
  
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PrimalOrB.PrimalOrB)
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PrimalOrB.PrimalOrB&title=VISITORS)
  
 
 <!---
