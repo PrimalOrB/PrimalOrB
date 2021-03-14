@@ -1,3 +1,4 @@
+### 📊 About me
 - 👋 Hi, I’m Andrew, aka @PrimalOrB
 
 - 👀 I’m interested in computer graphics / animation, having studied in college. I continue to work with these technologies and techniques as a hobby, but always have an interest in learning more.
