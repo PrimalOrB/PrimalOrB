@@ -19,12 +19,12 @@
  </a>
  
  ### Languages and tools
- ![JavaScript](https://img.shields.io/badge/-JavaScript-145880?logo=javascript&style=for-the-badge)&nbsp;&nbsp;
- ![CSS3](https://img.shields.io/badge/-CSS3-145880?logo=css3&style=for-the-badge)&nbsp;&nbsp;
- ![jQuery](https://img.shields.io/badge/-jQuery-145880?logo=jquery&style=for-the-badge)&nbsp;&nbsp;
- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-145880?logo=bootstrap&style=for-the-badge)&nbsp;&nbsp;
- ![Git](https://img.shields.io/badge/-Git-145880?logo=git&style=for-the-badge)&nbsp;&nbsp;
- ![GitHub](https://img.shields.io/badge/-GitHub-145880?logo=github&style=for-the-badge)&nbsp;&nbsp;
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-0e3d59?logo=javascript&style=for-the-badge)&nbsp;&nbsp;
+ ![CSS3](https://img.shields.io/badge/-CSS3-0e3d59?logo=css3&style=for-the-badge)&nbsp;&nbsp;
+ ![jQuery](https://img.shields.io/badge/-jQuery-0e3d59?logo=jquery&style=for-the-badge)&nbsp;&nbsp;
+ ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0e3d59?logo=bootstrap&style=for-the-badge)&nbsp;&nbsp;
+ ![Git](https://img.shields.io/badge/-Git-0e3d59?logo=git&style=for-the-badge)&nbsp;&nbsp;
+ ![GitHub](https://img.shields.io/badge/-GitHub-0e3d59?logo=github&style=for-the-badge)&nbsp;&nbsp;
  
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PrimalOrB.PrimalOrB)
  
