@@ -13,8 +13,8 @@
 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
-![Stats Overview](https://raw.githubusercontent.com/PrimalOrB/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/PrimalOrB/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://github.com/PrimalOrB/github-stats-transparent/blob/output/generated/overview.svg)
+![Most Used Languages](https://github.com/PrimalOrB/github-stats-transparent/blob/output/generated/languages.svg)
 <!---
 PrimalOrB/PrimalOrB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
