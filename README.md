@@ -22,6 +22,9 @@ Hi, I’m Andrew, aka @PrimalOrB
  ### Languages and tools
  ![JavaScript](https://img.shields.io/badge/-JavaScript-0e3d59?logo=javascript&style=for-the-badge)&nbsp;&nbsp;
  ![CSS3](https://img.shields.io/badge/-CSS3-0e3d59?logo=css3&style=for-the-badge)&nbsp;&nbsp;
+ ![mySQL](https://img.shields.io/badge/-mySQL-0e3d59?logo=mysql&style=for-the-badge)&nbsp;&nbsp;
+ ![handlebars](https://img.shields.io/badge/-HandlebarsJS-0e3d59?logo=exphbs&style=for-the-badge)&nbsp;&nbsp;
+ ![handlebars](https://img.shields.io/badge/-Express-0e3d59?logo=express&style=for-the-badge)&nbsp;&nbsp;
  ![jQuery](https://img.shields.io/badge/-jQuery-0e3d59?logo=jquery&style=for-the-badge)&nbsp;&nbsp;
  ![node.js](https://img.shields.io/badge/-node-0e3d59?logo=node.js&style=for-the-badge)&nbsp;&nbsp;
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0e3d59?logo=bootstrap&style=for-the-badge)&nbsp;&nbsp;
