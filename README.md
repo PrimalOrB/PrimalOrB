@@ -5,7 +5,7 @@ Hi, I’m Andrew, aka @PrimalOrB
 
 - 🌱 I’m currently learning full stack web development through the University of Toronto: School of Continuing Studies in order to expand my skillset, and open the door to new opportunities. I have an interest in learning new skills, and working with interactive web graphics such as threejs and makerjs. 
 
-- 💞️ At this moment I’m not looking to collaborate on any projects, but once done my courses, I plan to offer my services as a part-time freelance web developer
+- 💞️ At this moment I’m not looking to collaborate on any projects.
 
 - 📫 How to reach me:
   * [Website](http://primalorb.github.io)
