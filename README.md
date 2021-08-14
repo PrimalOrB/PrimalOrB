@@ -3,7 +3,7 @@ Hi, I’m Andrew, aka @PrimalOrB
 
 - 👀 I’m interested in computer graphics / animation, having studied in college. I continue to work with these technologies and techniques as a hobby, but always have an interest in learning more.
 
-- 🌱 I’m currently learning full stack web development through the University of Toronto: School of Continuing Studies in order to expand my skillset, and open the door to new opportunities. I have an interest in learning new skills, and working with interactive web graphics such as threejs and makerjs. 
+- 🌱 I completed the full stack web development through the University of Toronto: School of Continuing Studies in order to expand my skillset, and open the door to new opportunities. I have an interest in learning new skills, and working with interactive web graphics such as threejs and makerjs. 
 
 - 💞️ At this moment I’m not looking to collaborate on any projects.
 
