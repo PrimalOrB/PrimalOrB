@@ -20,6 +20,9 @@ Hi, I’m Andrew, aka @PrimalOrB
  </a>
  
  ### Languages and tools
+ ![React](https://img.shields.io/badge/-React-0e3d59?logo=React&style=for-the-badge)&nbsp;&nbsp;
+ ![Vue](https://img.shields.io/badge/-Vue-0e3d59?logo=Vuejs&style=for-the-badge)&nbsp;&nbsp;
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-0e3d59?logo=MongoDB&style=for-the-badge)&nbsp;&nbsp;
  ![JavaScript](https://img.shields.io/badge/-JavaScript-0e3d59?logo=javascript&style=for-the-badge)&nbsp;&nbsp;
  ![CSS3](https://img.shields.io/badge/-CSS3-0e3d59?logo=css3&style=for-the-badge)&nbsp;&nbsp;
  ![mySQL](https://img.shields.io/badge/-mySQL-0e3d59?logo=mysql&style=for-the-badge)&nbsp;&nbsp;
